@@ -1,6 +1,6 @@
 cask "claude-autoswitch" do
-  version "0.1.1"
-  sha256 "081ade17b093a5d22772f860f9667b94729d7752b5e0af1760ec9e5d3b528e6d"
+  version "0.1.2"
+  sha256 "d8af28ea57308fa570cfa9c60b2fb7b3820c095bbf9b9e49564c459b6b6899de"
 
   url "https://github.com/ParkSangGwon/claude-account-autoswitch/releases/download/v#{version}/Claude-AutoSwitch-v#{version}.zip"
   name "Claude AutoSwitch"
